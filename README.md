@@ -2,7 +2,7 @@
 
 Example of using Quasar (https://quasar.dev/) with Cerebral (https://cerebraljs.com/)
 
-A Quasar Framework app
+A Quasar Framework app with CerebralJS
 
 ## Install the dependencies
 ```bash
