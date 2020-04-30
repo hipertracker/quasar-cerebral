@@ -1,7 +1,7 @@
 {
-  "name": "quasar-cerebral-example",
+  "name": "quasar-cerebral",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
+  "description": "A Quasar Framework app with CerebralJS",
   "productName": "Quasar App",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
