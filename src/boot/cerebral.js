@@ -1,6 +1,6 @@
-import {Container} from "@cerebral/vue";
-import Cerebral from "cerebral";
 import App from '../App.vue'
+import Cerebral from "cerebral";
+import { Container } from "@cerebral/vue";
 
 const Controller = Cerebral({
   state: {
