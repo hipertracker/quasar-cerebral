@@ -1,4 +1,6 @@
-# Quasar App (quasar-cerebral-example)
+# Quasar App (quasar-cerebral)
+
+Example of using Quasar (https://quasar.dev/) with Cerebral (https://cerebraljs.com/)
 
 A Quasar Framework app
 
