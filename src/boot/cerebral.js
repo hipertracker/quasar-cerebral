@@ -9,7 +9,7 @@ const Controller = Cerebral({
 });
 
 export default async (context) => {
-  let render = h =>
+  const render = h =>
     h({
       components: {
         HOC: Container(Controller),
